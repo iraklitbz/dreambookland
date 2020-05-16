@@ -112,7 +112,6 @@
           </div>
         </div>
       </div>
-  
       <div class="col-4@md">
         <!-- cart subtotal 👇 -->
         <div class="cart__subtotal">
